@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/Marc/Documents/Devops/Dagshub/mlruns/811399832806207771
+creation_time: 1750863059774
+experiment_id: '811399832806207771'
+last_update_time: 1750863059774
+lifecycle_stage: active
+name: RandomForestExperiment_2

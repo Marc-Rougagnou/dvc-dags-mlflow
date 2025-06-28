@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/Marc/Documents/Devops/Dagshub/mlruns/811399832806207771/models/m-2321cd53b36a44cdb0eeec87887ea3c6/artifacts
+creation_timestamp: 1750863068608
+experiment_id: '811399832806207771'
+last_updated_timestamp: 1750863080304
+model_id: m-2321cd53b36a44cdb0eeec87887ea3c6
+model_type: null
+name: random_forest_model_2
+source_run_id: 9a13021ba6e74b4ab12c1ec5f6418f26
+status: 2
+status_message: null
